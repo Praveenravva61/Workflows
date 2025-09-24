@@ -1,0 +1,63 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# -------------------------
+# Logs & temp
+# -------------------------
+*.log
+*.tmp
+*.bak
+
+# -------------------------
+# IDE / Editors
+# -------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -------------------------
+# OS-specific (Windows + Mac)
+# -------------------------
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS (in case project is shared)
+.DS_Store
+
+# -------------------------
+# Databases / Cache
+# -------------------------
+*.sqlite3
+*.db
+
+# -------------------------
+# PyInstaller
+# -------------------------
+*.spec
